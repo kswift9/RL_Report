@@ -1,0 +1,6 @@
+gymnasium
+bettermdptools
+tqdm
+numpy
+matplotlib
+torch
